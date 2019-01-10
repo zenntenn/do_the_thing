@@ -2,15 +2,9 @@
 
 Custom front end for Google Reminders
 
-## Getting Started
+## Motivation
 
-This project is a starting point for a Flutter application.
+This app is ultimately meant to be usable by me, Joshua Hillerup.  I find Android Reminders to be increadibly useful, but the way the UI works on my Android phone is very much not to my liking.  I'm creating this app so that I can have a better experience using Reminders, but if other people want to use it to and even contribute that's great. 
 
-A few resources to get you started if this is your first Flutter project:
+Contributing to this project is fine, but if you end up wanting to take the design in a direction different from what works best for me I've made it under GPL v3, so it's easy to fork.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
